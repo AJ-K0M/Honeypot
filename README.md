@@ -18,6 +18,6 @@
 
 ### Database Backup (Required) 
 
-**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+**Summary:** MHN-Admin uses MongoDB. The exportrf JSON file records the attack and where it's coming from.
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
